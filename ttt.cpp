@@ -1,4 +1,4 @@
-// tic
+// tic tac toe
 // preprocessors
 #include <stdio.h>
 #include <conio.h>
