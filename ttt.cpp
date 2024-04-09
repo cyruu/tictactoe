@@ -1,4 +1,4 @@
-// tic tac toe
+// tic tac toe in c++
 // preprocessors
 #include <stdio.h>
 #include <conio.h>
