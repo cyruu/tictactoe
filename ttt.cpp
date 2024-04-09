@@ -1,3 +1,4 @@
+// tic
 // preprocessors
 #include <stdio.h>
 #include <conio.h>
